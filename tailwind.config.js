@@ -5,7 +5,7 @@ module.exports = {
     extend: {},
     container: {
       center: true,
-      padding: "1rem",
+      padding: "2rem",
       screens: {
         lg: "1024px",
         xl: "1200px",
